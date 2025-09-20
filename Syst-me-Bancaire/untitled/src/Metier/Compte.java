@@ -1,4 +1,4 @@
 package Metier;
 
-public class Compte {
+public abstract class Compte {
 }
